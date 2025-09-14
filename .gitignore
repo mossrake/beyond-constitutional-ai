@@ -15,6 +15,9 @@ Thumbs.db
 *.backup
 ~$*
 
+# Misc
+*AI*berg.pdf
+
 # Word files
 *.docx
 
